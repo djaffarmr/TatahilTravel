@@ -1,0 +1,4 @@
+#Mon Sep 04 13:23:00 ICT 2017
+base.0=B\:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_TatahilTravel\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=B\:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_TatahilTravel\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

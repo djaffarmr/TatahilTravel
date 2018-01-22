@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\2_TatahilTravel\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_overflow.xml",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\2_TatahilTravel\\app\\src\\main\\res\\menu\\main_overflow.xml"
+    },
+    {
+        "merged": "C:\\Android\\android\\TatahilTravel\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_overflow.xml",
+        "source": "C:\\Android\\android\\TatahilTravel\\app\\src\\main\\res\\menu\\main_overflow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Djaffar\\AndroidStudioProjects\\TatahilTravel\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_overflow.xml",
+        "source": "C:\\Users\\Djaffar\\AndroidStudioProjects\\TatahilTravel\\app\\src\\main\\res\\menu\\main_overflow.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_TatahilTravel\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_overflow.xml",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\_TatahilTravel\\app\\src\\main\\res\\menu\\main_overflow.xml"
+    },
+    {
+        "merged": "D:\\Project\\klimmbc\\android\\TatahilTravel\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_overflow.xml",
+        "source": "D:\\Project\\klimmbc\\android\\TatahilTravel\\app\\src\\main\\res\\menu\\main_overflow.xml"
+    }
+]

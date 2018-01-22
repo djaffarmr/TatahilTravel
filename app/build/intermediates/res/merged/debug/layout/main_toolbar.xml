@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    android:background="@color/colorPrimary">
+
+    <ImageButton
+        android:id="@+id/btn_home"
+        android:contentDescription="@string/desc_homebtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/home"
+        android:background="@android:color/transparent"
+        android:tint="@android:color/white" />
+
+    <!-- logo -->
+    <ImageView
+        android:contentDescription="@string/desc_applogo"
+        android:id="@+id/logo"
+        android:src="@drawable/logo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="?attr/actionBarSize"
+        android:layout_marginRight="?attr/actionBarSize" />
+
+</android.support.v7.widget.Toolbar>
